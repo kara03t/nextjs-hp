@@ -20,11 +20,9 @@ const Contact = () => {
           <p className="font-bold">Address</p>
           <p className="text-xs mt-2 text-gray-600">東京都</p>
           <p className="font-bold mt-3">E-mail</p>
-          <p className="text-xs mt-2 text-gray-600">
-            tomoki-kara@hotmail.co.jp
-          </p>
+          <p className="text-xs mt-2 text-gray-600">XXXX-XXXX-XXXX</p>
           <p className="font-bold mt-3">Phone</p>
-          <p className="text-xs mt-2 text-gray-600">090-8080-8238</p>
+          <p className="text-xs mt-2 text-gray-600">XXXX-XXXX-XXXX</p>
         </div>
         <div className="mt-6 flex justify-around">
           <div>
